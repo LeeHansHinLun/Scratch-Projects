@@ -9,3 +9,7 @@ As I said before, there are many lines of code that are not done and was just re
 
 # How did you put the projects into HTML files?
 I use the [TurboWarp Packager](https://packager.turbowarp.org/) to package them into plain HTML.
+
+# Projects List
+[Bird Fly](https://mediumcraft.github.io/Scratch-Projects/bird-fly)
+[FPS Calculator](https://mediumcraft.github.io/Scratch-Projects/fps-calculator)
