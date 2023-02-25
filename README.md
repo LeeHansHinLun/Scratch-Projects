@@ -12,4 +12,4 @@ I use the [TurboWarp Packager](https://packager.turbowarp.org/) to package them 
 
 # Projects List
 [Bird Fly](https://mediumcraft.github.io/Scratch-Projects/bird-fly)\
-[FPS Calculator](https://mediumcraft.github.io/Scratch-Projects/fps-calculator)\
+[FPS Calculator](https://mediumcraft.github.io/Scratch-Projects/fps-calculator)
